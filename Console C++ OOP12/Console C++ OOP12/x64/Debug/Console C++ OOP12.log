@@ -1,0 +1,9 @@
+﻿  Console C++ OOP12.cpp
+D:\Console C++ OOP12\Console C++ OOP12\Console C++ OOP12.cpp(145,26): warning C4101: three: неиспользованная локальная переменная
+D:\Console C++ OOP12\Console C++ OOP12\Console C++ OOP12.cpp(145,8): warning C4101: one: неиспользованная локальная переменная
+D:\Console C++ OOP12\Console C++ OOP12\Console C++ OOP12.cpp(145,17): warning C4101: two: неиспользованная локальная переменная
+D:\Console C++ OOP12\Console C++ OOP12\Console C++ OOP12.cpp(466,35): warning C4474: "sprintf_s" : для строки формата передано слишком много аргументов
+      D:\Console C++ OOP12\Console C++ OOP12\Console C++ OOP12.cpp(466,35):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  
+LINK : fatal error LNK1168: не удается открыть D:\Console C++ OOP12\x64\Debug\Console C++ OOP12.exe для записи
