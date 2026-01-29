@@ -1,0 +1,10 @@
+﻿  Console C++ OOP11.cpp
+D:\Console C++ OOP11\Console C++ OOP11\Console C++ OOP11.cpp(146,26): warning C4101: three: неиспользованная локальная переменная
+D:\Console C++ OOP11\Console C++ OOP11\Console C++ OOP11.cpp(146,8): warning C4101: one: неиспользованная локальная переменная
+D:\Console C++ OOP11\Console C++ OOP11\Console C++ OOP11.cpp(146,17): warning C4101: two: неиспользованная локальная переменная
+D:\Console C++ OOP11\Console C++ OOP11\Console C++ OOP11.cpp(197,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Console C++ OOP11\Console C++ OOP11\Console C++ OOP11.cpp(502,35): warning C4474: "sprintf_s" : для строки формата передано слишком много аргументов
+      D:\Console C++ OOP11\Console C++ OOP11\Console C++ OOP11.cpp(502,35):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  
+  Console C++ OOP11.vcxproj -> D:\Console C++ OOP11\x64\Debug\Console C++ OOP11.exe
