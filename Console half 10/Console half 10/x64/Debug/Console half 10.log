@@ -1,0 +1,9 @@
+﻿  Console half 10.cpp
+D:\Console half 10\Console half 10\Console half 10.cpp(24,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console half 10\Console half 10\Console half 10.cpp(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console half 10\Console half 10\Console half 10.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console half 10\Console half 10\Console half 10.cpp(82,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console half 10\Console half 10\Console half 10.cpp(106,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console half 10\Console half 10\Console half 10.cpp(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Console half 10\Console half 10\Console half 10.cpp(156,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Console half 10.vcxproj -> D:\Console half 10\x64\Debug\Console half 10.exe
