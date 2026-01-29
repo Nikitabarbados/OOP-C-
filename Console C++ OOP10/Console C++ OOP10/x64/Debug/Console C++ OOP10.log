@@ -1,0 +1,3 @@
+﻿  Console C++ OOP10.cpp
+D:\Console C++ OOP10\Console C++ OOP10\Console C++ OOP10.cpp(567,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Console C++ OOP10.vcxproj -> D:\Console C++ OOP10\x64\Debug\Console C++ OOP10.exe
